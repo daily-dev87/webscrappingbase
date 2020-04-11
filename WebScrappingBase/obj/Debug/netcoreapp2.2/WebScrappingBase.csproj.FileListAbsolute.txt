@@ -1,0 +1,12 @@
+C:\Project\WebScrappingBase\WebScrappingBase\obj\Debug\netcoreapp2.2\WebScrappingBase.csprojAssemblyReference.cache
+C:\Project\WebScrappingBase\WebScrappingBase\obj\Debug\netcoreapp2.2\WebScrappingBase.csproj.CoreCompileInputs.cache
+C:\Project\WebScrappingBase\WebScrappingBase\obj\Debug\netcoreapp2.2\WebScrappingBase.AssemblyInfoInputs.cache
+C:\Project\WebScrappingBase\WebScrappingBase\obj\Debug\netcoreapp2.2\WebScrappingBase.AssemblyInfo.cs
+C:\Project\WebScrappingBase\WebScrappingBase\bin\Debug\netcoreapp2.2\config.json
+C:\Project\WebScrappingBase\WebScrappingBase\bin\Debug\netcoreapp2.2\WebScrappingBase.deps.json
+C:\Project\WebScrappingBase\WebScrappingBase\bin\Debug\netcoreapp2.2\WebScrappingBase.runtimeconfig.json
+C:\Project\WebScrappingBase\WebScrappingBase\bin\Debug\netcoreapp2.2\WebScrappingBase.runtimeconfig.dev.json
+C:\Project\WebScrappingBase\WebScrappingBase\bin\Debug\netcoreapp2.2\WebScrappingBase.dll
+C:\Project\WebScrappingBase\WebScrappingBase\bin\Debug\netcoreapp2.2\WebScrappingBase.pdb
+C:\Project\WebScrappingBase\WebScrappingBase\obj\Debug\netcoreapp2.2\WebScrappingBase.dll
+C:\Project\WebScrappingBase\WebScrappingBase\obj\Debug\netcoreapp2.2\WebScrappingBase.pdb
